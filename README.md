@@ -18,7 +18,7 @@ A simple YouTube video downloader using Python and Tkinter.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/seu-usuario/youtube-downloader.git
+    git clone https://github.com/your-user/youtube-downloader.git
     cd youtube-downloader
     ```
 
