@@ -1,4 +1,7 @@
+# Force GitHub to recognize Python files
 *.py linguist-language=Python
+
+# Treat these file types as vendored (they will not count towards the language statistics)
 *.html linguist-vendored
 *.tex linguist-vendored
 *.md linguist-vendored
@@ -11,3 +14,4 @@
 *.toml linguist-vendored
 *.ini linguist-vendored
 *.txt linguist-vendored
+*.spec linguist-vendored
